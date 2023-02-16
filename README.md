@@ -10,13 +10,12 @@ An app with lots of food categories. Each category has dozens of dishes and ther
 <br>
 <hr>
 <b>Category Screen:<br></b>
-<br>
 <img src="https://user-images.githubusercontent.com/99321522/219326992-f7f187ee-27ca-4418-9a95-4f696c167757.png" width="350" height="700" />
 <br>
 <hr>
-<b>Login Screen:<br></b>
+<b>Meals Screen:<br></b>
 <br>
-<img src="https://user-images.githubusercontent.com/99321522/216844691-40c1e0ba-ab0c-49b4-9a40-88af519643fc.png" width="350" height="700" />
+<img src="https://user-images.githubusercontent.com/99321522/219327249-25a6db7c-49f5-4dd1-97bb-e69a36bef211.png" width="350" height="700" />
 <br>
 
-![Screenshot_36]()
+![Screenshot_37]()
