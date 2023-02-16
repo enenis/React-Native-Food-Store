@@ -29,5 +29,5 @@ An app with lots of food categories. Each category has dozens of dishes and ther
 ~Enis Kayra Yavuz
 enenissoftware
 <hr>
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+
 
