@@ -25,8 +25,9 @@ An app with lots of food categories. Each category has dozens of dishes and ther
 <img src="https://user-images.githubusercontent.com/99321522/219327883-24ae568e-ba19-4a96-adff-a85fccbe6a36.png" width="350" height="700" />
 <br>
 <hr>
-<small>Thank you so much for reading and reviewing this far.</small>
+<small>Thank you so much for reading and reviewing this far.</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
 <hr>
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
