@@ -25,7 +25,7 @@ An app with lots of food categories. Each category has dozens of dishes and ther
 <img src="https://user-images.githubusercontent.com/99321522/219327883-24ae568e-ba19-4a96-adff-a85fccbe6a36.png" width="350" height="700" />
 <br>
 <hr>
-<small>Thank you so much for reading and reviewing this far. Don2t forget the follow me...</small><br>
+<small>Thank you so much for reading and reviewing this far. Don't forget the follow me...</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
 <hr>
