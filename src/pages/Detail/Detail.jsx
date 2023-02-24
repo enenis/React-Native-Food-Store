@@ -12,6 +12,10 @@ const Detail = ({ route }) => {
     if(loading){
     <Lottie>
     }
+    
+    if(error){
+    <Lottie>
+    }
 
     const renderDetail = ({ item }) => (
         <DetailCard
