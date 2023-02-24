@@ -9,10 +9,15 @@ const Category = ({navigation}) => {
   const {data, error, loading} = useFetch(Config.API_CATEGORIES);
 
 
+  
+  if(loading){
+    <Lottie>
+    }
 
   const goToMenu = (strCategory) => {
     navigation.navigate('MealPage', {strCategory});
   };
+  
 
 
   const renderCategoryList = ({item}) => (
