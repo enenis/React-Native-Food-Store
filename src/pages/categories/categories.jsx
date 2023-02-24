@@ -13,6 +13,10 @@ const Category = ({navigation}) => {
   if(loading){
     <Lottie>
     }
+    
+  if(error){
+    <Lottie>
+    }
 
   const goToMenu = (strCategory) => {
     navigation.navigate('MealPage', {strCategory});
