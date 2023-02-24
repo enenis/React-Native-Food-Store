@@ -17,6 +17,10 @@ const Meals = ({ route, navigation }) => {
     if(loading){
     <Lottie>
     }
+    
+    if(error){
+    <Lottie>
+    }
 
 
     const renderMeals = ({ item }) => <MealsCard meal={item} onSelect={ ()=> handleMealSelect(item.idMeal)} />;
