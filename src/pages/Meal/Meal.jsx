@@ -14,8 +14,8 @@ const Meals = ({ route, navigation }) => {
         navigation.navigate('DetailPage', {idMeal})
     }
     
-    if(loading){
-    <Lottie>
+      if(loading){
+    <Lottie source={require(../../assets/loading)} autoplay>
     }
     
     if(error){
