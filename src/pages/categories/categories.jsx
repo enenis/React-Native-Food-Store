@@ -11,11 +11,11 @@ const Category = ({navigation}) => {
 
   
   if(loading){
-    <Lottie>
+    <Lottie source={require(../../assets/loading)} autoplay>
     }
     
-  if(error){
-    <Lottie>
+if(error){
+    <Lottie source={require(../../assets/error)} autoplay>
     }
 
   const goToMenu = (strCategory) => {
