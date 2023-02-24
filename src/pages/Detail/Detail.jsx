@@ -8,6 +8,10 @@ const Detail = ({ route }) => {
     const { idMeal } = route.params;
 
     const { data, loading, error } = useFetch(`${Config.API_DETAIL}${idMeal}`);
+    
+    if(loading){
+    <Lottie>
+    }
 
     const renderDetail = ({ item }) => (
         <DetailCard
