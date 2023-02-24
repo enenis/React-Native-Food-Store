@@ -18,8 +18,8 @@ const Meals = ({ route, navigation }) => {
     <Lottie source={require(../../assets/loading)} autoplay>
     }
     
-    if(error){
-    <Lottie>
+      if(error){
+    <Lottie source={require(../../assets/error)} autoplay>
     }
 
 
