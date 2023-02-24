@@ -9,8 +9,8 @@ const Detail = ({ route }) => {
 
     const { data, loading, error } = useFetch(`${Config.API_DETAIL}${idMeal}`);
     
-    if(loading){
-    <Lottie>
+      if(loading){
+    <Lottie source={require(../../assets/loading)} autoplay>
     }
     
     if(error){
