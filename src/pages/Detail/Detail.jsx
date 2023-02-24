@@ -13,8 +13,8 @@ const Detail = ({ route }) => {
     <Lottie source={require(../../assets/loading)} autoplay>
     }
     
-    if(error){
-    <Lottie>
+      if(error){
+    <Lottie source={require(../../assets/error)} autoplay>
     }
 
     const renderDetail = ({ item }) => (
