@@ -13,6 +13,10 @@ const Meals = ({ route, navigation }) => {
     const handleMealSelect = (idMeal) => {
         navigation.navigate('DetailPage', {idMeal})
     }
+    
+    if(loading){
+    <Lottie>
+    }
 
 
     const renderMeals = ({ item }) => <MealsCard meal={item} onSelect={ ()=> handleMealSelect(item.idMeal)} />;
