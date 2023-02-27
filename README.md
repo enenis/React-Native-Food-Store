@@ -22,7 +22,7 @@ An app with lots of food categories. Each category has dozens of dishes and ther
 <br>
 <hr>
 <b>And Finally If The API Does Not Respond:(i hope you never see this screen :D)<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/219327883-24ae568e-ba19-4a96-adff-a85fccbe6a36.png" width="350" height="700" />
+<img src="https://user-images.githubusercontent.com/99321522/219327883-24ae568e-ba19-4a96-adff-a85fccbe6a36.png" width="350" height="705" />
 <br>
 <hr>
 <small>Thank you so much for reading and reviewing this far.</small><br>
